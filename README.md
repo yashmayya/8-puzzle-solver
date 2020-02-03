@@ -11,4 +11,4 @@ Example:
     
     (0 represents a blank tile)
     
-Outputs the optimal number of moves required to reach the goal state from the initial state. Uses two heuristic functions (Number of mismatches, Total Manhattan distance) sequentially for A* and compares their performace (number of nodes expanded and maximum size of the frontier at any point).
+Outputs the optimal number of moves required to reach the goal state from the initial state. Uses two heuristic functions (Number of mismatches, Total Manhattan distance) sequentially for A* and compares their performance (number of nodes expanded and maximum size of the frontier at any point).
